@@ -162,26 +162,6 @@ header a {
   width: 35%;
 }
 
-.footer-nav {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 2.4rem;
-}
-
-.footer-link:link,
-.footer-link:visited {
-  text-decoration: none;
-  font-size: 1.6rem;
-  color: #767676;
-  transition: all 0.3s;
-}
-
-.footer-link:hover,
-.footer-link:active {
-  color: #555;
-}
-
 .step-number {
   font-size: 8.6rem;
   font-weight: 600;
@@ -225,3 +205,5 @@ header a {
   background-color: #91a7ff;
   z-index: -1;
 }
+
+/* FOOTER */
