@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat&family=Poiret+One&display=swap");
+
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  background-color: rgb(9, 47, 47);
+  margin: 0px;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0px;
+  text-align: center;
+  color: rgb(5, 46, 22);
+  font-family: "Koulen", cursive;
+}
+
+li,
+p {
+  color: black;
+  text-align: center;
+}
+
+#top {
+  background-color: rgb(25, 25, 25);
+  height: 5vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#top a {
+  color: gold;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+#top a:hover {
+  color: hotpink;
+}
+
+img {
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.aboutMe {
+  background-color: beige;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
